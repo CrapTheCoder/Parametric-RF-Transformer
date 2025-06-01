@@ -1,0 +1,21 @@
+{
+  "f1_ghz": 10,
+  "f2_ghz": 80,
+  "N1": 2,
+  "N2": 2,
+  "w_um": 40.0,
+  "s_um": 40.0,
+  "r1_primary_inner_um": 40.0,
+  "eps_r_substrate": 4.4,
+  "h_substrate_um": 100.0,
+  "metal_thickness_um": 2.0,
+  "substrate_tand": 0.02,
+  "sim_box_padding_factor": 2,
+  "mesh_resolution_factor": 3,
+  "EndCriteria": 1e-4,
+  "NrTS": 80000,
+  "numThreads": 20,
+  "fsteps_output": 21,
+  "add_common_ground_via": true,
+  "common_via_radius_um": 10.0
+}

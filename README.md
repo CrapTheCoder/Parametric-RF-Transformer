@@ -23,11 +23,11 @@ Generates planar RF spiral transformer GDS layouts using gdsfactory and simulate
 ## Setup
 
 1. **Prerequisites:**
-    * Python 3.8+
-    * OpenEMS & CSXCAD (add to system PATH).
+    * Python 3.11 (recommended)
+    * Install OpenEMS & CSXCAD and add to system PATH.
 2. **Install Python Dependencies:**
    ```bash
-   pip install numpy matplotlib gdsfactory pyopenems
+   pip install numpy matplotlib gdsfactory
    ```
 
 ## Usage
